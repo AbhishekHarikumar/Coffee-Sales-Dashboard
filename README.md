@@ -4,9 +4,9 @@
 
 Business Solution:- 
 
- Created a comprehensive dashboard to track coffee sales across multiple locations using Power BI.
+✵ Created a comprehensive dashboard to track coffee sales across multiple locations using Power BI.
 
- Implemented real-time data updates and interactive features, improving accessibility for stakeholders.  Analyzed sales data to identify opportunities for growth and optimize inventory management.
+✵ Implemented real-time data updates and interactive features, improving accessibility for stakeholders.  Analyzed sales data to identify opportunities for growth and optimize inventory management.
 
 
 References:- 
